@@ -1,2 +1,0 @@
-PrivateKey: cNCfPHizwiibBPdhjVVYftokUYNCNtqMKgG6RrYtdhbtHCtqEfBy 
- Address : tb1q04agk478fc02m4pv73uz63gfrxgyujaj7p82w0
